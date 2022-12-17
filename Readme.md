@@ -1,4 +1,4 @@
-# Shopping Prediction
+# Title : Online Shopping Prediction
 
 AI to predict whether online shopping customers will complete a purchase
 ## 1. Methodolgy
